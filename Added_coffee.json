@@ -1,0 +1,37 @@
+{
+    "Americano": {
+        "Water": "36",
+        "Milk": "35",
+        "Sugar": "2",
+        "Coffee": "12",
+        "Price": 350
+    },
+    "Cappuccino": {
+        "Water": "32",
+        "Milk": "12",
+        "Sugar": "1",
+        "Coffee": "32",
+        "Price": 400
+    },
+    "Espresso": {
+        "Water": "12",
+        "Milk": "22",
+        "Sugar": "12",
+        "Coffee": "33",
+        "Price": 250
+    },
+    "Flat White": {
+        "Water": "24",
+        "Milk": "36",
+        "Sugar": "5",
+        "Coffee": "12",
+        "Price": 300
+    },
+    "Latte": {
+        "Water": "12",
+        "Milk": "32",
+        "Sugar": "5",
+        "Coffee": "14",
+        "Price": 400
+    }
+}
